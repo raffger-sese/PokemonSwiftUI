@@ -3,7 +3,7 @@
 //  Pokemon
 //
 //  Created by Raffger Sese on 5/31/20.
-//  Copyright © 2020 com.oozou. All rights reserved.
+//  Copyright © 2020 com. All rights reserved.
 //
 
 import Combine
